@@ -1,0 +1,52 @@
+input.form-control {
+    /*top: 18px;
+    left: 414px;*/
+    width: 420px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 4px;
+    /*opacity: 1;*/
+}
+
+.h2 {
+    /*top: 123px;
+    left: 638px;*/
+    width: 644px;
+    height: 37px;
+    margin-left: 100px;
+    font: normal normal normal 28px/24px Segoe UI;
+    /*letter-spacing: 0px;*/
+    color: #FFFFFF;
+    /*opacity: 1;*/
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center !important
+}
+
+
+.black {
+    background-color: black;
+}
+
+.navbar {
+    background-color: #121212;
+}
+
+body {
+    background-color: black !important;
+}
+
+h2,
+h5,
+a.nav-link.active {
+    color: white !important;
+}
+
+a.nav-link {
+    color: #707070 !important;
+}
+
+h5 {
+    padding-top: 20px;
+}
